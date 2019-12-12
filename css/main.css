@@ -21,6 +21,11 @@ h6 {
   font-weight: 700;
 }
 
+/*Header*/
+.bg-white {
+  background-color: #ffffff !important;
+}
+
 /*Buttons*/
 
 .btn-outline-secondary {
@@ -128,9 +133,6 @@ h6 {
   height: 300px;
 }
 
-.bg-blue {
-  background-color: #e6f2ff !important;
-}
 .dark i {
   font-size: 1.3rem;
   color: #83f3ed !important;
